@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 I'm a full stack developer passionate about creating innovative and impactful solutions.<br>🎹 In my free time, you'll probably find me attempting to play the piano – emphasis on "attempting"! It's all about the journey, right? 🎶😄<br>🌍 I love traveling and exploring new places, soaking in different cultures and experiences.<br>🎧 Music is a fundamental part of my life, always accompanying me on every journey.<br>📚 I'm always eager to learn something new and challenge myself constantly.</p>
+<p align="left">💻 I'm a full stack developer passionate about creating innovative and impactful solutions.<br>🎹 In my free time, you'll probably find me attempting to play the piano – emphasis on "attempting"! It's all about the journey, right? 😄<br>🌍 I love traveling and exploring new places, soaking in different cultures and experiences.<br>🎧 Music is a fundamental part of my life, always accompanying me on every journey.<br>📚 I'm always eager to learn something new and challenge myself constantly.</p>
 
 ###
 
@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/beatrizeassis" target="_blank">
+  <a href="linkedin.com/beatrizeassis" target="linkedin.com/beatrizeassis">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
