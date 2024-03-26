@@ -58,11 +58,3 @@
 
 ![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ0aDgzbXc5MXVkYjFlenl4Yzlqbmg4c2V5M2g5NHp3MmNjYzhoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizeassis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
