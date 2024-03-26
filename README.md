@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/beatrizeassis" target="_blank">
+  <a href="linkedin.com/beatrizeassis" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
@@ -61,3 +61,5 @@
 </div>
 
 ###
+
+![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ0aDgzbXc5MXVkYjFlenl4Yzlqbmg4c2V5M2g5NHp3MmNjYzhoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif)
