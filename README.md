@@ -62,4 +62,6 @@
 
 ###
 
-![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ0aDgzbXc5MXVkYjFlenl4Yzlqbmg4c2V5M2g5NHp3MmNjYzhoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif)
+<center>
+  ![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ0aDgzbXc5MXVkYjFlenl4Yzlqbmg4c2V5M2g5NHp3MmNjYzhoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif)
+</center>
