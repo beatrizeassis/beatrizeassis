@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beatriz Assis</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<h2 align="left">Welcome to my GitHub profile!</h2>
+<h3 align="left">Welcome to my GitHub profile!</h3>
 
 - 📫 How to reach me **biaeassis1@gmail.com**
 
