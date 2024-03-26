@@ -15,4 +15,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizeassis&show_icons=true&locale=en&layout=compact" alt="beatrizeassis" /></p>
 
 
-![Snake animation](https://github.com/beatrizeassis/beatrizeassis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/beatrizeassis/blob/output/github-contribution-grid-snake.svg)
